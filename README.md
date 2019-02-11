@@ -1,4 +1,4 @@
-# Nicepage
+# Nicepage Website Builder
 
 ## Absolute Creativity With No Coding
 Simple drag-and-drop editor to implement any ideas

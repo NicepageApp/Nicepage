@@ -88,3 +88,15 @@ What's new in this update:
 * Upcoming Features
 
 <a href="https://nicepage.com/questions/7044/nicepage-update-sep-oct-2018">Read more</a>
+
+## Nicepage Update: August 2018
+<a href="https://nicepage.com/questions/5311/nicepage-update-august-september-2018"><img src="Nicepage-create-the-Responsive-Web-Design-for-each-device.jpg"></a>
+
+What's new in this update:
+* New Demo: How to create the Responsive Web Design
+* Added Export/Import Project
+* Added Position and Size properties
+* CSS 30% optimization, WP and Joomla Plugin is reduced by 250Kb
+* New Breadcrumbs control
+
+<a href="https://nicepage.com/questions/5311/nicepage-update-august-september-2018">Read more</a>

@@ -1,5 +1,10 @@
 # Nicepage Website Builder
 
+## Create stunning websites and themes
+Nicepage gives the ultimate freedom for <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Web Design 3.0</a>.
+Build your mobile-friendly Joomla Templates, WordPress Themes and HTML5 websites with no coding in desktop aplication for Windows and Mac.
+Nicepage Page Builder is available as a Joomla Extension and WordPress Plugin.
+
 ## Absolute Creativity With No Coding
 Simple drag-and-drop editor to implement any ideas
 <a href="https://nicepage.com/"><img src="https://images03.nicepage.com/a122014e1e8cdf24af08f98c/7721fee501a75153b1afe4ae/editor.gif"></a>

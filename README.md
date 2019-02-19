@@ -19,3 +19,13 @@ See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage f
 Choose from <a href="https://nicepage.com/templates">1000+ awesome, mobile-friendly templates</a> for every kind of websites.
 <br><br>
 <a href="https://nicepage.com/templates"><img src="free-nicepage-templates.jpg"></a>
+
+## Nicepage Update: February 2019
+We have updated our Home page with the newest trends in Web Design 3.0. This design is also available in <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Nicepage Templates</a>.
+
+What's new in this update:
+* New Home Page Design
+* White Label Feature
+* Firefox browser Beta support for Nicepage Builder
+* Bug Fixes and New Features
+<br><a href="https://nicepage.com/questions/25017/nicepage-update-february-2019">Read more</a>

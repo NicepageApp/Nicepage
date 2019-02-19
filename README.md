@@ -18,4 +18,4 @@ See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage f
 ## Start With Beautiful Templates
 Choose from <a href="https://nicepage.com/templates">1000+ awesome, mobile-friendly templates</a> for every kind of websites.
 <br><br>
-<a href="https://nicepage.com/templates"><img src="https://images03.nicepage.com/a122014e1e8cdf24af08f98c/a41595183007541a81424eac/examples.jpg"></a>
+<a href="https://nicepage.com/templates"><img src="free-nicepage-templates.jpg"></a>

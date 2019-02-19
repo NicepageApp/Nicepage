@@ -22,7 +22,7 @@ Choose from <a href="https://nicepage.com/templates">1000+ awesome, mobile-frien
 
 ## Nicepage Update: February 2019
 We have updated our Home page with the newest trends in Web Design 3.0. This design is also available in <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Nicepage Templates</a>.
-<a href="https://nicepage.com"><img src="Nicepage-home-page-with-the-newest-trends-in-Web-Design-3-0.jpg"></a>
+<a href="https://nicepage.com/questions/25017/nicepage-update-february-2019"><img src="Nicepage-home-page-with-the-newest-trends-in-Web-Design-3-0.jpg"></a>
 
 What's new in this update:
 * New Home Page Design
@@ -43,7 +43,7 @@ This article consists of several chapters:
 <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Read more</a>
 
 ## Nicepage Update: Dec 2018
-<a href="https://nicepage.com/blog/detail/19993/nicepage-update-dec-2018"><img src="Nicepage-web-design-templates-gallery.jpg"></a>
+<a href="https://nicepage.com/questions/19980/nicepage-update-december-2018"><img src="Nicepage-web-design-templates-gallery.jpg"></a>
 
 What's new in this update:
 * New Videos: How to use Grid and How to use Sections
@@ -51,4 +51,4 @@ What's new in this update:
 * Growth in Nicepage Pins views
 * Upcoming Features, Improvements and Fixes
 
-<a href="https://nicepage.com/blog/detail/19993/nicepage-update-dec-2018">Read more</a>
+<a href="https://nicepage.com/questions/19980/nicepage-update-december-2018">Read more</a>

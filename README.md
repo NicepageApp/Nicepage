@@ -33,7 +33,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/25017/nicepage-update-february-2019">Read more</a>
 
 ## Web Design 3.0: When Your Web Design Really Matters
-<a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters"><img src="Nicepage-home-page-with-the-newest-trends-in-Web-Design-3-0.jpg"></a>
+<a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters"><img src="Web-Design-3-0-When-Your-Web-Design-Really-Matters.jpeg"></a>
 
 This article consists of several chapters:
 1. The new revolution in Web Design has already happened. 

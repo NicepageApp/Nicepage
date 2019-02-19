@@ -13,16 +13,16 @@ Nicepage is simple drag-and-drop editor to implement any ideas.
 
 See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage features</a>.
 
-<a href="https://nicepage.com/doc/article/11912/key-features"><img src="absolute-creativity-with-no-coding-with-free-nicepage-website-builder.gif"></a>
+<a href="https://nicepage.com/doc/article/11912/key-features"><img src="images/absolute-creativity-with-no-coding-with-free-nicepage-website-builder.gif"></a>
 
 ## Start With Beautiful Templates
 Choose from <a href="https://nicepage.com/templates">1000+ awesome, mobile-friendly templates</a> for every kind of websites.
 <br><br>
-<a href="https://nicepage.com/templates"><img src="free-nicepage-templates.jpg"></a>
+<a href="https://nicepage.com/templates"><img src="images/free-nicepage-templates.jpg"></a>
 
 ## Nicepage Update: February 2019
 We have updated our Home page with the newest trends in Web Design 3.0. This design is also available in <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Nicepage Templates</a>.
-<a href="https://nicepage.com/questions/25017/nicepage-update-february-2019"><img src="Nicepage-home-page-with-the-newest-trends-in-Web-Design-3-0.jpg"></a>
+<a href="https://nicepage.com/questions/25017/nicepage-update-february-2019"><img src="images/Nicepage-home-page-with-the-newest-trends-in-Web-Design-3-0.jpg"></a>
 
 What's new in this update:
 * New Home Page Design
@@ -33,7 +33,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/25017/nicepage-update-february-2019">Read more</a>
 
 ## Web Design 3.0: When Your Web Design Really Matters
-<a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters"><img src="Web-Design-3-0-When-Your-Web-Design-Really-Matters.jpeg"></a>
+<a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters"><img src="images/Web-Design-3-0-When-Your-Web-Design-Really-Matters.jpeg"></a>
 
 This article consists of several chapters:
 1. The new revolution in Web Design has already happened. 
@@ -43,7 +43,7 @@ This article consists of several chapters:
 <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Read more</a>
 
 ## Nicepage Update: December 2018
-<a href="https://nicepage.com/questions/19980/nicepage-update-december-2018"><img src="Nicepage-web-design-templates-gallery.jpg"></a>
+<a href="https://nicepage.com/questions/19980/nicepage-update-december-2018"><img src="images/Nicepage-web-design-templates-gallery.jpg"></a>
 
 What's new in this update:
 * New Videos: How to use Grid and How to use Sections
@@ -54,7 +54,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/19980/nicepage-update-december-2018">Read more</a>
 
 ## Nicepage Update: November 2018
-<a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018"><img src="Free-Nicepage-templates-on-pinterest.jpg"></a>
+<a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018"><img src="images/Free-Nicepage-templates-on-pinterest.jpg"></a>
 
 What's new in this update:
 * New Free Version
@@ -65,7 +65,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018">Read more</a>
 
 ## Nicepage Update: October 2018
-<a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018"><img src="Nicepage-application-plugin-extension-user-interface-UI.png"></a>
+<a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018"><img src="images/Nicepage-application-plugin-extension-user-interface-UI.png"></a>
 
 What's new in this update:
 * New Video: Menu Demo
@@ -77,7 +77,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018">Read more</a>
 
 ## Nicepage Update: September 2018
-<a href="https://nicepage.com/questions/7044/nicepage-update-sep-oct-2018"><img src="free-nicepage-templates-september.jpg"></a>
+<a href="https://nicepage.com/questions/7044/nicepage-update-sep-oct-2018"><img src="images/free-nicepage-templates-september.jpg"></a>
 
 What's new in this update:
 * Client Licenses
@@ -90,7 +90,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/7044/nicepage-update-sep-oct-2018">Read more</a>
 
 ## Nicepage Update: August 2018
-<a href="https://nicepage.com/questions/5311/nicepage-update-august-september-2018"><img src="Nicepage-create-the-Responsive-Web-Design-for-each-device.jpg"></a>
+<a href="https://nicepage.com/questions/5311/nicepage-update-august-september-2018"><img src="images/Nicepage-create-the-Responsive-Web-Design-for-each-device.jpg"></a>
 
 What's new in this update:
 * New Demo: How to create the Responsive Web Design
@@ -102,7 +102,7 @@ What's new in this update:
 <a href="https://nicepage.com/questions/5311/nicepage-update-august-september-2018">Read more</a>
 
 ## Nicepage Update: July 2018
-<a href="https://nicepage.com/questions/2510/nicepage-update-17-jul-2018"><img src="how-to-create-web-design-3-0-in-a-minute.png"></a>
+<a href="https://nicepage.com/questions/2510/nicepage-update-17-jul-2018"><img src="images/how-to-create-web-design-3-0-in-a-minute.png"></a>
 
 What's new in this update:
 * New One Minute Design videos
@@ -119,7 +119,7 @@ What's new in this update:
 
 ## Nicepage Theme and Template Builder: June 2018
 Nicepage update for supporting Joomla Templates and Wordpress Themes
-<a href="https://nicepage.com/questions/2488/nicepage-feature-update-june-2018"><img src="Nicepage-editor-for-wordpress-themes-and-joomla-templates.png"></a>
+<a href="https://nicepage.com/questions/2488/nicepage-feature-update-june-2018"><img src="images/Nicepage-editor-for-wordpress-themes-and-joomla-templates.png"></a>
 
 Theme and Template Features:
 * Logo Control

@@ -68,10 +68,23 @@ What's new in this update:
 <a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018"><img src="Nicepage-application-plugin-extension-user-interface-UI.png"></a>
 
 What's new in this update:
-New Video: Menu Demo
-New Language Translations for the Nicepage User Interface
-New Container Options
-New Site Designs
-Bug Fixes and New Features
+* New Video: Menu Demo
+* New Language Translations for the Nicepage User Interface
+* New Container Options
+* New Site Designs
+* Bug Fixes and New Features
 
 <a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018">Read more</a>
+
+## Nicepage Update: September 2018
+<a href="https://nicepage.com/questions/7044/nicepage-update-sep-oct-2018"><img src="free-nicepage-templates-september.jpg"></a>
+
+What's new in this update:
+* Client Licenses
+* Voting Results
+* New Demo Videos: How to use Joomla Positions and WordPress Sidebars
+* Bug Fixing and New Features
+* New Designs
+* Upcoming Features
+
+<a href="https://nicepage.com/questions/7044/nicepage-update-sep-oct-2018">Read more</a>

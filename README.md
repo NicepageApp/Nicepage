@@ -5,5 +5,6 @@ Nicepage gives the ultimate freedom for <a href="https://nicepage.com/blog/detai
 Build your mobile-friendly Joomla Templates, WordPress Themes and HTML5 websites with no coding in free desktop aplications for Windows and Mac. Nicepage Page Builder is available as a Joomla Extension and WordPress Plugin. There is also a Nicepage edition with online hosting.
 
 ## Absolute Creativity With No Coding
-Nicepage is simple drag-and-drop editor to implement any ideas:
-<a href="https://nicepage.com/"><img src="https://images03.nicepage.com/a122014e1e8cdf24af08f98c/7721fee501a75153b1afe4ae/editor.gif"></a>
+Nicepage is simple drag-and-drop editor to implement any ideas.
+<br>See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage features</a>.
+<a href="https://nicepage.com/doc/article/11912/key-features"><img src="https://images03.nicepage.com/a122014e1e8cdf24af08f98c/7721fee501a75153b1afe4ae/editor.gif"></a>

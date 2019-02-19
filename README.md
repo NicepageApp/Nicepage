@@ -41,3 +41,14 @@ This article consists of several chapters:
 3. We open the secret of the most trendy web designs on the Web.
 
 <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Read more</a>
+
+## Nicepage Update: Dec 2018
+<a href="https://nicepage.com/blog/detail/19993/nicepage-update-dec-2018"><img src="Nicepage-web-design-templates-gallery.jpg"></a>
+
+What's new in this update:
+* New Videos: How to use Grid and How to use Sections
+* New Web Design Gallery
+* Growth in Nicepage Pins views
+* Upcoming Features, Improvements and Fixes
+
+<a href="https://nicepage.com/blog/detail/19993/nicepage-update-dec-2018">Read more</a>

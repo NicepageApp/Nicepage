@@ -13,7 +13,7 @@ Nicepage is simple drag-and-drop editor to implement any ideas.
 
 See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage features</a>.
 
-<a href="https://nicepage.com/doc/article/11912/key-features"><img src="https://images03.nicepage.com/a122014e1e8cdf24af08f98c/7721fee501a75153b1afe4ae/editor.gif"></a>
+<a href="https://nicepage.com/doc/article/11912/key-features"><img src="absolute-creativity-with-no-coding-with-free-nicepage-website-builder.gif"></a>
 
 ## Start With Beautiful Templates
 Choose from <a href="https://nicepage.com/templates">1000+ awesome, mobile-friendly templates</a> for every kind of websites.

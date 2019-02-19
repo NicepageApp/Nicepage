@@ -100,3 +100,19 @@ What's new in this update:
 * New Breadcrumbs control
 
 <a href="https://nicepage.com/questions/5311/nicepage-update-august-september-2018">Read more</a>
+
+## Nicepage Update: July 2018
+<a href="https://nicepage.com/questions/2510/nicepage-update-17-jul-2018"><img src="how-to-create-web-design-3-0-in-a-minute.png"></a>
+
+What's new in this update:
+* New One Minute Design videos
+* French and German translations
+* Optimized html and stylesheet files in the exported HTML websites
+* Improved compatibility with Internet Explorer 11
+* Improved the performance and the stability of the application
+* In desktop added the Preview in Browser feature
+* New Slider Animations
+* Form Mail Chimp source support
+* Desktop Export / Exporting into Image support
+
+<a href="https://nicepage.com/questions/2510/nicepage-update-17-jul-2018">Read more</a>

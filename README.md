@@ -6,5 +6,11 @@ Build your mobile-friendly Joomla Templates, WordPress Themes and HTML5 websites
 
 ## Absolute Creativity With No Coding
 Nicepage is simple drag-and-drop editor to implement any ideas.
-<br>See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage features</a>.
+* **1000s Web Templates**. Select from a huge variety of designer-made templates.
+* **Easy Drag-n-Drop**. Select from a huge variety of designer-made templates.
+* **No Coding**. Add, edit, move, and modify everything. All visually!
+* **Mobile-Friendly**. Build websites that look great on all modern devices.
+
+See <a href="https://nicepage.com/doc/article/11912/key-features">all Nicepage features</a>.
+
 <a href="https://nicepage.com/doc/article/11912/key-features"><img src="https://images03.nicepage.com/a122014e1e8cdf24af08f98c/7721fee501a75153b1afe4ae/editor.gif"></a>

@@ -52,3 +52,14 @@ What's new in this update:
 * Upcoming Features, Improvements and Fixes
 
 <a href="https://nicepage.com/questions/19980/nicepage-update-december-2018">Read more</a>
+
+## Nicepage Update: Nov 2018
+<a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018"><img src="Free-Nicepage-templates-on-pinterest.jpg"></a>
+
+What's new in this update:
+* New Free Version
+* New Video: Menu Demo
+* New Language Translations for the Nicepage User Interface
+* Bug Fixes and New Features
+
+<a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018">Read more</a>

@@ -133,4 +133,9 @@ Theme and Template Features:
 * Create multi-level menu
 * Header Overlapping
 
+Desktop Applications:
+* Full Code Rework. Electron Support in Desktop editions.
+* Support for Mac
+* Auto-update for Windows and Mac
+
 <a href="https://nicepage.com/questions/2488/nicepage-feature-update-june-2018">Read more</a>

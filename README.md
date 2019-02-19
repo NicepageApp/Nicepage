@@ -116,3 +116,21 @@ What's new in this update:
 * Desktop Export / Exporting into Image support
 
 <a href="https://nicepage.com/questions/2510/nicepage-update-17-jul-2018">Read more</a>
+
+## Nicepage Theme and Template Builder: June 2018
+Nicepage update for supporting Joomla Templates and Wordpress Themes
+<a href="https://nicepage.com/questions/2488/nicepage-feature-update-june-2018"><img src="Nicepage-editor-for-wordpress-themes-and-joomla-templates.png"></a>
+
+Theme and Template Features:
+* Logo Control
+* Headline Control
+* Search Control
+* Sidebar Layout for Blog and Post Templates
+* Sidebar Control with Block / Widget styles
+* Hide Header / Footer option
+* Off-Canvas Menu with addiing and drag’n’drop eidting of menu and controls
+* Multi-level menu styles
+* Create multi-level menu
+* Header Overlapping
+
+<a href="https://nicepage.com/questions/2488/nicepage-feature-update-june-2018">Read more</a>

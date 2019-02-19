@@ -42,7 +42,7 @@ This article consists of several chapters:
 
 <a href="https://nicepage.com/blog/detail/22994/web-design-3-0-when-your-web-design-really-matters">Read more</a>
 
-## Nicepage Update: Dec 2018
+## Nicepage Update: December 2018
 <a href="https://nicepage.com/questions/19980/nicepage-update-december-2018"><img src="Nicepage-web-design-templates-gallery.jpg"></a>
 
 What's new in this update:
@@ -53,7 +53,7 @@ What's new in this update:
 
 <a href="https://nicepage.com/questions/19980/nicepage-update-december-2018">Read more</a>
 
-## Nicepage Update: Nov 2018
+## Nicepage Update: November 2018
 <a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018"><img src="Free-Nicepage-templates-on-pinterest.jpg"></a>
 
 What's new in this update:
@@ -64,7 +64,7 @@ What's new in this update:
 
 <a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018">Read more</a>
 
-## Nicepage Update: Oct 2018
+## Nicepage Update: October 2018
 <a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018"><img src="Nicepage-application-plugin-extension-user-interface-UI.png"></a>
 
 What's new in this update:

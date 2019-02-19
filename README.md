@@ -63,3 +63,15 @@ What's new in this update:
 * Bug Fixes and New Features
 
 <a href="https://nicepage.com/questions/16687/nicepage-update-nov-2018">Read more</a>
+
+## Nicepage Update: Oct 2018
+<a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018"><img src="Nicepage-application-plugin-extension-user-interface-UI.png"></a>
+
+What's new in this update:
+New Video: Menu Demo
+New Language Translations for the Nicepage User Interface
+New Container Options
+New Site Designs
+Bug Fixes and New Features
+
+<a href="https://nicepage.com/questions/10239/nicepage-update-oct-2018">Read more</a>
